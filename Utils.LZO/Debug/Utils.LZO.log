@@ -1,0 +1,9 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  Utils.LZO.cpp
+c:\users\me\source\git\rweijnen\ifshelper\utils.lzo\utils.lzo.h(29): warning C4091: 'typedef ': ignored on left of 'Utils::LZO::Flags1' when no variable is declared
+  Generating Code...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Utils.LZO.vcxproj -> C:\Users\me\source\git\rweijnen\ifshelper\Debug\Utils.LZO.dll

@@ -1,0 +1,10 @@
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\bin\x86\Debug\IFSHelper.exe.config
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\bin\x86\Debug\IFSHelper.exe
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\bin\x86\Debug\IFSHelper.pdb
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\bin\x86\Debug\FluentCommandLineParser.xml
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.csprojAssemblyReference.cache
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.csproj.CoreCompileInputs.cache
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.csproj.Fody.CopyLocal.cache
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.csproj.CopyComplete
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.exe
+c:\Users\me\source\git\rweijnen\ifshelper\IFSHelper\obj\x86\Debug\IFSHelper.pdb

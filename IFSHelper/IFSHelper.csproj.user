@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>/i "c:\Users\remko\Documents\RAD Studio\Projects\IFSDump\Test2\ifs1.ifs" /o "c:\Users\remko\Documents\RAD Studio\Projects\IFSDump\Test2\ifs1-u.ifs" /d /v</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>/i "c:\Users\remko\Dropbox %28Atlantis Computing%29\MIB hacking folder\08_IFS\Test\2.unpacked\ifs1.ifs" /o "c:\Users\remko\Dropbox %28Atlantis Computing%29\MIB hacking folder\08_IFS\Test\3.repacked\ifs1.ifs"  /c /v</StartArguments>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>/i "c:\Users\remko\Documents\RAD Studio\Projects\IFSDump\Test2\ifs1.ifs" /o "c:\Users\remko\Documents\RAD Studio\Projects\IFSDump\Test2\ifs1-u.ifs" /d /v</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartArguments>/i "c:\Users\remko\Dropbox %28Atlantis Computing%29\MIB hacking folder\08_IFS\Test\ifs-root.ifs" /s /v</StartArguments>
+  </PropertyGroup>
+</Project>
