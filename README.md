@@ -18,6 +18,7 @@ Compresses or decompresses an IFS file.
 Examples:
 
 
+Decompress
 ```
 IFSHelper.exe /i PCM3_IFS1_MOPF.ifs /o test.ifs /d
 
@@ -32,8 +33,10 @@ Compression: STARTUP_HDR_FLAGS1_COMPRESS_LZO
 Stored size: 8822868 (Uncompressed: 18256180)
 Startup Checksum: 0x00000000 (Calculated: 0x00000000)
 Decompressing: 100%
-Finished.```
+Finished.
+```
 
+Compress
 ```
 IFSHelper.exe /i test.ifs /c /o compressed.ifs
 
