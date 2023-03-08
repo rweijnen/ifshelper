@@ -18,7 +18,8 @@ Compresses or decompresses an IFS file.
 Example:
 
 
-```IFSHelper.exe /i PCM3_IFS1_MOPF.ifs /o test.ifs /d
+```
+IFSHelper.exe /i PCM3_IFS1_MOPF.ifs /o test.ifs /d
 IFSHelper 0.6 (c) 2016 Remko Weijnen
 Input file : PCM3_IFS1_MOPF.ifs
 Output file: test.ifs
