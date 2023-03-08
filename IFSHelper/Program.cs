@@ -627,7 +627,6 @@ namespace IFSHelper
         static int Main(string[] args)
         {
             Console.WriteLine("IFSHelper 0.6 (c) 2016 Remko Weijnen");
-            Console.WriteLine("Only licensed to Jille Berends");
             // create a generic parser for the ApplicationArguments type
             var p = new FluentCommandLineParser<ApplicationArguments>();
 
