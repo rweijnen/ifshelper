@@ -15,7 +15,7 @@ Compresses or decompresses an IFS file.
         [s, ]:[Split, ]         Split IFS Files
         [m, ]:[Merge, ]         Merge 2 IFS Files
 ```
-Example:
+Examples:
 
 
 ```
@@ -33,3 +33,16 @@ Stored size: 8822868 (Uncompressed: 18256180)
 Startup Checksum: 0x00000000 (Calculated: 0x00000000)
 Decompressing: 100%
 Finished.```
+
+```
+IFSHelper.exe /i test.ifs /c /o compressed.ifs
+
+IFSHelper 0.6 (c) 2016 Remko Weijnen
+Input file : test.ifs
+Output file: compressed.ifs
+Compress   : True
+Decompress : False
+Compressing: 100%
+
+Finished.
+```
